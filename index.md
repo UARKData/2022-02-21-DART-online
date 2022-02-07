@@ -89,7 +89,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   <table>
 <table class="table table-striped">
 <tr> <td>April 21, 2022 1:00-4:00pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id = "s_lc_event_7732968" href="">Introduction to Python </a>
+<a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/2022_01_21_Python">Programming in Python </a>
 <!-- Below is optional element styling  //-->
   <style>
 #s_lc_event_7732968 {
