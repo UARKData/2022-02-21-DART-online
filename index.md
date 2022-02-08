@@ -13,7 +13,7 @@ humandate: "Feb 21, 2022"    # human-readable dates for the workshop (e.g., "Feb
 humantime: "1:00 - 4:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-02-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-02-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Adam Hughges", "Lora Lennertz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Adam Hughes", "Lora Lennertz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Reza Taghavi"]    # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["datalib@uark.edu","lennertz@uark.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -80,6 +80,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </div>
 {% endunless %}
 {% endif %}
+<strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
 
 <h2>Register Now!</h2>
 <img src = "assets/img/DARTNEW3.png">
@@ -88,7 +89,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
-<tr> <td>April 21, 2022 1:00-4:00pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<tr> <td>Feb. 21, 2022 1:00-4:00pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/2022_01_21_Python">Programming in Python </a>
 <!-- Below is optional element styling  //-->
   <style>
